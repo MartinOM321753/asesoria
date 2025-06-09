@@ -3,6 +3,8 @@ archivo uno
 Parafo 2 en main
 Parafo 3 en main
 
+Parrafo 1 en user1
+Parrafo 2 en user1
 Parafo 1 en user2
 Parafo 2 en user2
 Parafo 3 en user2
